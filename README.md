@@ -1,7 +1,7 @@
 <strong><h1 align="center">Explore sem limites</h1></strong>
 
 <p align="center">
-  <img alt="" src="./capa.png" width="100%">
+  <img src="./Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
